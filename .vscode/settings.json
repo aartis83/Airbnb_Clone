@@ -1,0 +1,13 @@
+{
+    "python.pythonPath": "C:\\Users\\aarti\\AppData\\Local\\Programs\\Python\\Python39\\python.exe",
+    "python.linting.flake8Enabled": true,
+    "python.linting.enabled": true,
+    "python.formatting.provider": "black",
+    "editor.formatOnSave": true,
+    "python.linting.flake8Args": [
+        "--max-line-length=88"
+    ],
+    "[html]": {
+        "editor.formatOnSave": false
+    },
+}
