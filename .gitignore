@@ -141,3 +141,7 @@ cython_debug/
 
 #gettext
 gettext0.21-iconv1.16-shared-64/
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
