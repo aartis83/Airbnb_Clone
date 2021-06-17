@@ -25,7 +25,7 @@ SECRET_KEY = "8y-cqx*3+@9#s#+bc)py5_a1^lj)*hsmts6)#7ieg-wg7l+tfk"
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["airbnb-clone.eba-2iwpmznd.us-west-2.elasticbeanstalk.com"]
 
 
 # Application definition
