@@ -14,7 +14,9 @@ Features
   
     Book rooms
   
-    View current user's previous trips
+    Conversations
+    
+    User Favorite List
   
 Technologies Used
 
